@@ -1,0 +1,6 @@
+streamlit
+pandas
+spacy
+textacy
+textacy.tm
+en_core_web_sm
