@@ -4,7 +4,6 @@
 
 import streamlit as st
 import pandas as pd
-from texthero.representation import most_similar
 import textacy
 import textacy.tm
 import spacy
